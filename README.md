@@ -1,5 +1,5 @@
 ## Rating System for Delivery Service
-A midterm project for CSP. This is a Rating System for Delivery Service that allow customers to rate and share reviews about the services. 
+This is a project for CSP, re: Rating System for Delivery Service. This project allow users to rate and share reviews about the delivery service of a restaurant. 
 
 
 ###### To install from repository:
